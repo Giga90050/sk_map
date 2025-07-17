@@ -8,7 +8,7 @@ var simplemaps_countrymap_mapdata={
     pop_ups: "detect",
     
 		//State defaults
-		state_description: "State description",
+		
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "",
@@ -36,8 +36,8 @@ var simplemaps_countrymap_mapdata={
     label_hover_color: "#ffffff",
     label_size: 16,
     label_font: "Arial",
-    label_display: "auto",
-    label_scale: "yes",
+    label_display: "no",
+    label_scale: "no",
     hide_labels: "no",
     hide_eastern_labels: "no",
    
@@ -73,56 +73,56 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     SKBC: {
       name: "Banskobystrický",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKBL: {
       name: "Bratislavský",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKKI: {
       name: "Košický",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKNI: {
       name: "Nitriansky",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKPV: {
       name: "Prešov",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKTA: {
       name: "Trnavský",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKTC: {
       name: "Trenciansky",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SKZI: {
       name: "Žilinský",
-      description: "default",
+      description: "no",
       color: "default",
       hover_color: "default",
       url: "default"
